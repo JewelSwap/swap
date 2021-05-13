@@ -1,0 +1,16 @@
+{
+  "short_name": "Jewel Swap",
+  "name": "Jewel Swap",
+  "icons": [
+    {
+      "src": "./gemLogo.png",
+      "sizes": "514x772",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
